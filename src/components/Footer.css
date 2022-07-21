@@ -1,0 +1,8 @@
+.footer_section{
+    height: 80px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
